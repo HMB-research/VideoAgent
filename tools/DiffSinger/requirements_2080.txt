@@ -28,7 +28,7 @@ google-auth-oauthlib==0.4.2
 grpcio==1.34.0
 h5py==3.1.0
 horology==1.1.0
-httplib2==0.18.1
+httplib2==0.32.0
 idna==2.10
 imageio==2.9.0
 inflect==5.0.2

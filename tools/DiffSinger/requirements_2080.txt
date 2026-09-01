@@ -49,7 +49,7 @@ miditoolkit==0.1.7
 mido==1.2.9
 music21==5.7.2
 networkx==2.5
-nltk==3.5
+nltk==3.10.3
 numba==0.48.0
 numpy==1.19.4
 oauth2client==4.1.3

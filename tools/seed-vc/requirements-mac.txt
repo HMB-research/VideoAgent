@@ -12,7 +12,7 @@ gradio==4.44.0
 pydub==0.25.1
 resemblyzer
 jiwer==3.0.3
-transformers==4.46.3
+transformers==5.10.1
 FreeSimpleGUI==5.1.1
 soundfile==0.12.1
 sounddevice==0.5.0
